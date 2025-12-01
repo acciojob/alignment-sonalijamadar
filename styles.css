@@ -10,17 +10,17 @@ td{
 	border: 1px solid black;
 	border-collapse: collapse;
 }
-#t12{
+.center{
 	text-align: center
 }
-#t13{
+.right{
 	text-align: right;
 }
-#firstrow{
+#green{
 	background-color: green;
 	height: 20px;
 }
-#lastrow{
+#blue{
 	background-color: blue;
 	height: 20px;
 }
